@@ -1,0 +1,1 @@
+// placeholder; dropdown interaction is handled by native <details>
